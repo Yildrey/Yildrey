@@ -1,6 +1,8 @@
 # Hola a todos! Vienbenidos a mi perfil de Github
 
-### Aqui podras encontrar todo el codifo que he ido aprendiendo y proyectos en los que estoy trabajando.
+### Aqui podras encontrar todo el codigo que he ido aprendiendo y proyectos en los que estoy trabajando.
+
+![](https://www.enter.co/wp-content/uploads/2020/12/Programacion-codigo-768x432.jpg)
 
 <!--
 **Yildrey/Yildrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
